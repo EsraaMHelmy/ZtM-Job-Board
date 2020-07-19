@@ -14865,5 +14865,21 @@ export const data = {
         country: "India"
       }
     },
+    {
+    id: uuidv4(),
+    name: "Esraa Mohamed Helmy",
+    img: "https://avatars0.githubusercontent.com/u/37934970?s=400&u=8654aa666ceeaefbe4f8368373a5b3d22fe6d19a&v=4",
+    links: {
+      website: "",
+      linkedin: "https://www.linkedin.com/in/esraamhelmy/",
+      github: "https://github.com/EsraaMHelmy"
+    },
+    jobTitle: "Front-End Developer",
+    location: {
+      city: "Cairo",
+      state: "Cairo",
+      country: "Egypt"
+    }
+  }
   ],
 }
